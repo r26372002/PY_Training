@@ -1,1 +1,1 @@
-web gunicorn Flask_Pratice:app
+gunicorn Flask_Pratice:app
